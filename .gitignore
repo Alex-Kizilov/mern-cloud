@@ -1,3 +1,7 @@
+.idea
+
 /client/node_modules
+!/client
 /server/node_modules
+
 cloud-disk.drawio
